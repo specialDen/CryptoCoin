@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EDA0CE05-0167-4293-B5EB-5A17603ADDFB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1218F8D-6250-49F2-A26D-4F37FC557893"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ByteCoin/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "updateUI(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25F42E6D-636B-4FFA-8660-33ADD47E03E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ByteCoin/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "didUpdateData(_:cryptoCurrency:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "25F42E6D-636B-4FFA-8660-33ADD47E03E4 - fc2cbeec49cdecbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.didUpdateData(_: ByteCoin.CoinManager, cryptoCurrency: ByteCoin.CryptoCurrencyData) -&gt; ()"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/izuchukwudennis/Developer/SwiftStudy/ByteCoin-iOS13/ByteCoin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "25F42E6D-636B-4FFA-8660-33ADD47E03E4 - 9921a2a3c2ea0c4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ByteCoin.ViewController.didUpdateData(_: ByteCoin.CoinManager, cryptoCurrency: ByteCoin.CryptoCurrencyData) -&gt; ()"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/izuchukwudennis/Developer/SwiftStudy/ByteCoin-iOS13/ByteCoin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "713818C4-B031-4E1B-BC5B-E716D1D7A201"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ByteCoin/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "pickerView(_:didSelectRow:inComponent:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
